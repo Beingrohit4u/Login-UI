@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.064" y1="0.015" x2="1.078" y2="0.957" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#090909" stop-opacity="0.78"/>
+      <stop offset="0.047" stop-color="#2a2a2a" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#5a5a5a" stop-opacity="0.78"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="375" height="812" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.044" x2="0.547" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#737373" stop-opacity="0.78"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1.374" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ece6e4" stop-opacity="0.969"/>
+      <stop offset="0.975" stop-color="#b6b2b2" stop-opacity="0.729"/>
+      <stop offset="1" stop-color="#938f8f" stop-opacity="0.722"/>
+    </linearGradient>
+  </defs>
+  <g id="Signup_1" data-name="Signup – 1" clip-path="url(#clip-path)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1">
+      <line id="Line_1" data-name="Line 1" x1="274" transform="translate(50.5 316.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x1="274" transform="translate(50.5 377.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x1="274" transform="translate(50.5 438.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" x1="274" transform="translate(50.5 499.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <text id="First_Name" data-name="First Name" transform="translate(51 303)" fill="#fff" font-size="20" font-family="Gadugi" letter-spacing="0.01em"><tspan x="0" y="0">First Name</tspan></text>
+      <text id="Last_Name" data-name="Last Name" transform="translate(51 364)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Last Name</tspan></text>
+      <text id="Email_Id" data-name="Email Id" transform="translate(50 425)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Email Id</tspan></text>
+      <text id="Password" transform="translate(51 486)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Password</tspan></text>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="521" cy="502.5" rx="521" ry="502.5" transform="translate(-124 -193)" fill="rgba(45,45,45,0.78)"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="509.5" cy="471.5" rx="509.5" ry="471.5" transform="translate(-197 -209)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 -7)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(98 550)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="179" height="61" rx="30.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="178" height="60" rx="30" fill="none"/>
+      </g>
+      <text id="Sign_up" data-name="Sign up" transform="translate(152 589)" fill="#040000" font-size="24" font-family="Calibri"><tspan x="0" y="0">Sign up</tspan></text>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M60,0C26.866,0,0,26.314,0,58.774s26.864,58.773,60,58.773,60-26.313,60-58.773S93.139,0,60,0Zm0,17.574a19.647,19.647,0,0,1,19.848,19.44,19.85,19.85,0,0,1-39.691,0A19.646,19.646,0,0,1,60,17.575Zm-.013,84.606A44.579,44.579,0,0,1,31.312,91.823a8.216,8.216,0,0,1-2.968-6.3,19.815,19.815,0,0,1,20.112-19.6H71.549a19.786,19.786,0,0,1,20.08,19.6,8.2,8.2,0,0,1-2.965,6.294A44.563,44.563,0,0,1,59.987,102.181Z" transform="translate(128 66.999)" opacity="0.63" fill="url(#linear-gradient-3)"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(0 2)">
+      <g id="google" transform="translate(122.716 620)">
+        <path id="Path_2" data-name="Path 2" d="M48.337,0A19.559,19.559,0,0,0,33.643,6.535a18.924,18.924,0,0,0-2.751,4.049l6.541,4.89a11.245,11.245,0,0,1,4.136-5.55,11.615,11.615,0,0,1,6.768-2.15,11.4,11.4,0,0,1,7.157,2.505l5.655-5.527A19.6,19.6,0,0,0,48.337,0Z" transform="translate(-23.614 0)" fill="#ff7976"/>
+        <path id="Path_3" data-name="Path 3" d="M30.9,10.583l6.541,4.89a11.245,11.245,0,0,1,4.136-5.55,11.615,11.615,0,0,1,6.768-2.15A11.4,11.4,0,0,1,55.5,10.277L61.156,4.75A19.609,19.609,0,0,0,48.344,0" transform="translate(-23.622 0)" fill="#e3443a"/>
+        <path id="Path_4" data-name="Path 4" d="M13.237,147.289c0-.175.013-.348.021-.521a11.112,11.112,0,0,1,.561-3.006l-6.541-4.89a18.643,18.643,0,0,0-1.979,7.9c0,.174-.016.346-.016.521s.011.348.015.522A18.658,18.658,0,0,0,7.275,155.7l6.539-4.9a11.079,11.079,0,0,1-.556-2.99C13.25,147.637,13.237,147.464,13.237,147.289Z" transform="translate(0 -128.289)" fill="#f4d72c"/>
+        <g id="Group_3" data-name="Group 3" transform="translate(7.275 10.583)">
+          <path id="Path_5" data-name="Path 5" d="M30.86,155.7l6.539-4.9a11.079,11.079,0,0,1-.556-2.99c-.008-.174-.021-.346-.021-.522s.013-.347.021-.521a11.112,11.112,0,0,1,.561-3.006l-6.541-4.889" transform="translate(-30.86 -138.872)" fill="#f7b92b"/>
+        </g>
+        <path id="Path_6" data-name="Path 6" d="M54.793,301.647a12.226,12.226,0,0,1-6.456,1.661,11.655,11.655,0,0,1-6.769-2.161,11.215,11.215,0,0,1-4.136-5.539L30.892,300.5a18.9,18.9,0,0,0,2.746,4.043,19.558,19.558,0,0,0,14.7,6.541,19.878,19.878,0,0,0,5.2-.686A18.112,18.112,0,0,0,61,306.346Z" transform="translate(-23.614 -273.081)" fill="#59c96e"/>
+        <path id="Path_7" data-name="Path 7" d="M30.9,359.768a18.9,18.9,0,0,0,2.746,4.043,19.558,19.558,0,0,0,14.7,6.541,19.878,19.878,0,0,0,5.2-.686,18.111,18.111,0,0,0,7.461-4.049l-6.21-4.7a12.226,12.226,0,0,1-6.456,1.661,11.654,11.654,0,0,1-6.769-2.161" transform="translate(-23.622 -332.352)" fill="#40a557"/>
+        <path id="Path_8" data-name="Path 8" d="M275.216,201.32H257.284v7.316h10.245a9.182,9.182,0,0,1-3.971,5.908l6.21,4.7a17.454,17.454,0,0,0,4.135-5.735,20.97,20.97,0,0,0,1.755-8.646A16.935,16.935,0,0,0,275.216,201.32Z" transform="translate(-232.38 -185.978)" fill="#0faef4"/>
+        <g id="Group_4" data-name="Group 4" transform="translate(24.904 15.342)">
+          <path id="Path_9" data-name="Path 9" d="M417.636,219.242a17.578,17.578,0,0,0,4.148-5.757,20.917,20.917,0,0,0,1.748-8.634,16.858,16.858,0,0,0-.448-3.531h-1.116" transform="translate(-405.152 -201.32)" fill="#4087ed"/>
+          <path id="Path_10" data-name="Path 10" d="M257.284,241.32v4.268h9.966" transform="translate(-257.284 -238.272)" fill="#4087ed"/>
+        </g>
+      </g>
+      <g id="facebook" transform="translate(206 618)">
+        <path id="Path_11" data-name="Path 11" d="M42,21A21,21,0,1,1,21,0,21,21,0,0,1,42,21Zm0,0" fill="#4a7aff"/>
+        <path id="Path_12" data-name="Path 12" d="M154.349,111.113a21,21,0,0,0,20.078-20.979c0-.082,0-.163,0-.245L159.848,75.313,144.262,91.6l8.66,8.66-3.993,5.429Zm0,0" transform="translate(-132.428 -69.135)" fill="#0053bf"/>
+        <path id="Path_13" data-name="Path 13" d="M159.844,71.475v4.755s-5.46-.792-5.46,2.73v3.522h4.931l-.616,5.371h-4.315v14h-5.46v-14l-4.667-.088V82.483h4.579V78.432s-.3-6.026,5.636-7.133A15.866,15.866,0,0,1,159.844,71.475Zm0,0" transform="translate(-132.424 -65.297)" fill="#fff"/>
+        <path id="Path_14" data-name="Path 14" d="M262.094,76.23V71.475a15.866,15.866,0,0,0-5.371-.176,8.327,8.327,0,0,0-1.078.275v30.281h.99v-14h4.315l.617-5.371h-4.931V78.96C256.634,75.438,262.094,76.23,262.094,76.23Zm0,0" transform="translate(-234.674 -65.297)" fill="#dce1eb"/>
+      </g>
+    </g>
+    <g id="Group_1-2" data-name="Group 1">
+      <line id="Line_1-2" data-name="Line 1" x1="274" transform="translate(50.5 316.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_2-2" data-name="Line 2" x1="274" transform="translate(50.5 377.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_3-2" data-name="Line 3" x1="274" transform="translate(50.5 438.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <line id="Line_4-2" data-name="Line 4" x1="274" transform="translate(50.5 499.5)" fill="none" stroke="#faf9f9" stroke-width="1"/>
+      <text id="First_Name-2" data-name="First Name" transform="translate(51 303)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">First Name</tspan></text>
+      <text id="Last_Name-2" data-name="Last Name" transform="translate(51 364)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Last Name</tspan></text>
+      <text id="Email_Id-2" data-name="Email Id" transform="translate(50 425)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Email Id</tspan></text>
+      <text id="Password-2" data-name="Password" transform="translate(51 486)" fill="#fff" font-size="20" font-family="Gadugi"><tspan x="0" y="0">Password</tspan></text>
+    </g>
+  </g>
+</svg>
